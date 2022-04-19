@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @klied2799
-- 👀 I’m interested in macroecology and evolution 
-- 🌱 I’m currently learning model making
-- 💞️ I’m looking to collaborate on inter- and intra- specific interactions in deep time
-- 📫 How to reach me @ kliedtke20@gmail.com
+- 👋 Hi, I’m Kyra J. Liedtke
+- 👀 I’m interested in urban and metabolic ecology
+- 🌱 I’m currently learning R and Python 
+- 💞️ I’m looking to collaborate on Urban Scaling Theory
+- 📫 How to reach me @ kjli230@uky.edu
 
 <!---
 klied2799/klied2799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
